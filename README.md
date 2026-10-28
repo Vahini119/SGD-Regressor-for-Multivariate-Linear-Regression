@@ -1,4 +1,4 @@
-<img width="1040" height="238" alt="Screenshot 2026-10-28 080633" src="https://github.com/user-attachments/assets/48d44a7e-11fd-488c-8b4e-e6382ae2f979" /># SGD-Regressor-for-Multivariate-Linear-Regression
+# SGD-Regressor-for-Multivariate-Linear-Regression
 
 ## AIM:
 To write a program to predict the price of the house and number of occupants in the house with SGD regressor.
